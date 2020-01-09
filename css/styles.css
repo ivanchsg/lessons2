@@ -1,0 +1,31 @@
+body{
+	background-color: #D2F9EA;
+}
+
+h3 {
+	font-size: 22px;
+	color: #F93E3B;
+}
+
+.osada{
+	color: #0000FF;
+	font-style: italic;
+}
+
+.sod {
+	background-color: #fff;
+	width: 20%;
+	position: fixed;
+	right: 0;
+	height: 100vh;
+	top: 0;
+}
+
+.sod .marg {
+	margin: 15px 10px;
+}
+
+.content {
+	width: 80%;
+	height: 100vh;
+}
